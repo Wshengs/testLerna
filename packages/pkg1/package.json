@@ -1,6 +1,6 @@
 {
   "name": "pkg1",
-  "version": "0.0.2",
+  "version": "0.0.3-alpha.0",
   "description": "> TODO: description",
   "author": "wusheng",
   "homepage": "https://github.com/Wshengs/testLerna#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/Wshengs/testLerna/issues"
   },
   "dependencies": {
-    "vue": "^0.0.3"
+    "vue": "^0.0.4-alpha.0"
   },
   "gitHead": "661a7fd04edd60f02f6b955d1e1ea25c186bec1d"
 }
