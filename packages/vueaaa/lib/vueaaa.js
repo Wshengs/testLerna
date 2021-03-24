@@ -1,8 +1,8 @@
 'use strict';
 
-module.exports = vue;
+module.exports = vueaaa;
 
-function vue() {
+function vueaaa() {
     // TODO
     console.log('vue')
 }

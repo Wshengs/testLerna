@@ -1,11 +1,11 @@
 {
-  "name": "vue",
+  "name": "vueaaa",
   "version": "0.0.4-alpha.0",
   "description": "111111",
   "author": "wusheng",
   "homepage": "https://github.com/Wshengs/testLerna#readme",
   "license": "ISC",
-  "main": "lib/vue.js",
+  "main": "lib/vueaaa.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/Wshengs/testLerna/issues"
   },
-  "gitHead": "661a7fd04edd60f02f6b955d1e1ea25c186bec1d"
+  "gitHead": "5c8ddeb0dc92ee46def7adab24ab3442b8483ff5"
 }
