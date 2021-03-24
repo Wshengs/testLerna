@@ -1,0 +1,10 @@
+0 silly argv { _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: 'view-desgin' }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/vipkid/Documents/self/lerna
+3 info versioning independent
+4 error Error: 404 Not Found - GET https://registry.npmjs.com/view-desgin - Not found
+4 error     at res.buffer.catch.then.body (/Users/vipkid/.nvm/versions/node/v10.13.0/lib/node_modules/lerna/node_modules/npm-registry-fetch/check-response.js:123:15)

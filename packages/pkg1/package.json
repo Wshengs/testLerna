@@ -1,11 +1,11 @@
 {
-  "name": "vue",
-  "version": "0.0.2",
-  "description": "111111",
+  "name": "pkg1",
+  "version": "0.0.1",
+  "description": "> TODO: description",
   "author": "wusheng <wusheng@vipkid.com.cn>",
   "homepage": "https://github.com/Wshengs/testLerna#readme",
   "license": "ISC",
-  "main": "lib/vue.js",
+  "main": "lib/pkg1.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/Wshengs/testLerna/issues"
+  },
+  "dependencies": {
+    "vue": "^0.0.2"
   }
 }
